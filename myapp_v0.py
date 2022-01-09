@@ -1,4 +1,4 @@
-# diff --color myapp_v1.py myapp_v0.py
+# To run use `streamlit run myapp_v0.py`
 import streamlit as st
 import glob
 import pandas as pd
